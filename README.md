@@ -2,3 +2,4 @@
 ![Screenshot](/basic%20color%20picker/color-switcher-v1.gif) 
 ![Screenshot](/Seasons%20Switcher/seasons-switcher-v1.gif) 
 ![Screenshot](/trip%20calculator/tip-calculator-v1.gif)
+![Screenshot](/Sizing%20an%20image/sizing-an-image-v1.gif)
