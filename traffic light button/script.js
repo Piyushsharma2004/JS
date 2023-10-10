@@ -24,7 +24,7 @@ function turnOnYellow(){
 function turnOnGreen(){
     stopLightElement.style.backgroundColor = "#4b5069";
     readyLightElement.style.backgroundColor = "#4b5069";
-    goLightElement.style.backgroundColor = "3199473";
+    goLightElement.style.backgroundColor = "#199473";
     stopButtonElement.style.backgroundColor = "#1f1d41";
     readyButtonElement.style.backgroundColor = "#1f1d41";
     goButtonElement.style.backgroundColor = "#199473";
