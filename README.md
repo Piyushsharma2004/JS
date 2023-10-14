@@ -10,3 +10,5 @@
 ![Screenshot](/Sizing%20an%20image/sizing-an-image-v1.gif)
 - Adding Game basic - 6
 ![Screenshot](/Addition%20Game/addition-game-v1.gif)
+- Random Color Genrater 
+![Screenshot](/random%20color%20Generator/random-color-generator-v1.gif)
