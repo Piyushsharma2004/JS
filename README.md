@@ -8,3 +8,5 @@
 ![Screenshot](/trip%20calculator/tip-calculator-v1.gif)
 - Sizing Image basic -5
 ![Screenshot](/Sizing%20an%20image/sizing-an-image-v1.gif)
+- Adding Game basic - 6
+![Screenshot](/Addition%20Game/addition-game-v1.gif)
